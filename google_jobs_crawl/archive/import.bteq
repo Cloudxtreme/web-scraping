@@ -1,0 +1,52 @@
+.logmech ldap
+.logon dwprod1/luzhang,Cornmaster1#
+ 
+.pack 5000
+
+.SET REPEATSTOP ON
+
+.IMPORT VARTEXT '||||' FILE= /Users/luzhang/Desktop/google_jobs_crawl/google_jobs_results2.txt, skip 1;
+.REPEAT *
+USING  
+      job_query (varchar(1000)),
+      job_title (varchar(1000)),
+      company (varchar(1000)),
+      job_location (varchar(1000)),
+      provider (varchar(1000)),
+      recency (varchar(500)),
+      jobtype (varchar(1000)),
+      job_rank (varchar(50)),
+      job_description (varchar(20000)),
+      job_link (varchar(2000)),
+      date_scraped (varchar(100))
+      
+INSERT INTO dm_biz.google_jobs_crawl4
+    (        
+      job_query,
+      job_title,
+      company,
+      job_location,
+      provider,
+      recency,
+      jobtype,
+      job_rank,
+      job_description,
+      job_link,
+      date_scraped
+      )
+VALUES (    
+      :job_query,
+      :job_title,
+      :company,
+      :job_location,
+      :provider,
+      :recency,
+      :jobtype,
+      :job_rank,
+      :job_description,
+      :job_link,
+      :date_scraped
+      )
+    ;
+.QUIT
+.LOGOFF

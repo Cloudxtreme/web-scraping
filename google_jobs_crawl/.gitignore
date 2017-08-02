@@ -1,0 +1,6 @@
+node_modules/
+config.py
+*.log
+*.tsv
+*.txt
+*.pyc
