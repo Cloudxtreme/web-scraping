@@ -1,30 +1,29 @@
-IP,port,username,password,city,state,country
-172.102.211.142,6496,huanproxy,50USa19,Chicago,Illinois,United States
-104.151.4.8,33471,huanproxy,50USa19,Chicago,Illinois,United States
-172.102.211.233,6496,huanproxy,50USa19,Chicago,Illinois,United States
-23.244.211.175,62853,huanproxy,50USa19,Chicago,Illinois,United States
-172.102.211.122,6496,huanproxy,50USa19,Chicago,Illinois,United States
-172.102.211.68,6496,huanproxy,50USa19,Chicago,Illinois,United States
-172.102.211.42,6496,huanproxy,50USa19,Chicago,Illinois,United States
-172.102.211.35,6496,huanproxy,50USa19,Chicago,Illinois,United States
-172.102.211.24,6496,huanproxy,50USa19,Chicago,Illinois,United States
-172.102.211.12,6496,huanproxy,50USa19,Chicago,Illinois,United States
-23.244.211.185,62853,huanproxy,50USa19,Chicago,Illinois,United States
-23.244.211.221,62853,huanproxy,50USa19,Chicago,Illinois,United States
-23.250.56.20,34518,huanproxy,50USa19,Chicago,Illinois,United States
-104.151.4.82,33471,huanproxy,50USa19,Chicago,Illinois,United States
-23.244.211.19,62853,huanproxy,50USa19,Chicago,Illinois,United States
-23.244.211.26,62853,huanproxy,50USa19,Chicago,Illinois,United States
-23.244.211.30,62853,huanproxy,50USa19,Chicago,Illinois,United States
-23.250.56.115,34518,huanproxy,50USa19,Chicago,Illinois,United States
-23.250.56.56,34518,huanproxy,50USa19,Chicago,Illinois,United States
-104.203.150.188,33471,huanproxy,50USa19,Chicago,Illinois,United States
-104.203.150.184,33471,huanproxy,50USa19,Chicago,Illinois,United States
-104.203.150.118,33471,huanproxy,50USa19,Chicago,Illinois,United States
-104.151.4.173,33471,huanproxy,50USa19,Chicago,Illinois,United States
-104.151.4.130,33471,huanproxy,50USa19,Chicago,Illinois,United States
-104.151.4.119,33471,huanproxy,50USa19,Chicago,Illinois,United States
-23.244.211.211,62853,huanproxy,50USa19,Chicago,Illinois,United States
+IP,port,username,password,,,
+162.244.134.2,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.3,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.4,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.5,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.6,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.7,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.8,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.9,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.10,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.11,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.12,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.13,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.14,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.15,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.16,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.17,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.18,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.19,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.20,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.33,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.34,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.35,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.36,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.37,5432,huan,adfg78JKaf,Chicago,Illinois,United States
+162.244.134.38,5432,huan,adfg78JKaf,Chicago,Illinois,United States
 192.80.171.51,41967,huanproxy,50USa19,Houston,Texas,United States
 23.254.43.90,34518,huanproxy,50USa19,Houston,Texas,United States
 23.254.43.20,34518,huanproxy,50USa19,Houston,Texas,United States
@@ -77,32 +76,29 @@ IP,port,username,password,city,state,country
 23.89.91.79,33471,huanproxy,50USa19,New York,New York,United States
 23.89.91.122,33471,huanproxy,50USa19,New York,New York,United States
 67.90.47.60,15343,huanproxy,50USa19,New York,New York,United States
-172.98.187.80,6496,huanproxy,50USa19,San Francisco,California,United States
-172.98.187.69,6496,huanproxy,50USa19,San Francisco,California,United States
-192.186.176.187,29070,huanproxy,50USa19,San Francisco,California,United States
-192.186.176.94,29070,huanproxy,50USa19,San Francisco,California,United States
-192.186.176.44,29070,huanproxy,50USa19,San Francisco,California,United States
-192.186.176.28,29070,huanproxy,50USa19,San Francisco,California,United States
-172.98.187.9,6496,huanproxy,50USa19,San Francisco,California,United States
-104.144.172.142,10077,huanproxy,50USa19,San Francisco,California,United States
-104.144.172.235,10077,huanproxy,50USa19,San Francisco,California,United States
-172.98.187.97,6496,huanproxy,50USa19,San Francisco,California,United States
-172.98.187.99,6496,huanproxy,50USa19,San Francisco,California,United States
-172.98.187.253,6496,huanproxy,50USa19,San Francisco,California,United States
-172.98.187.218,6496,huanproxy,50USa19,San Francisco,California,United States
-172.98.187.135,6496,huanproxy,50USa19,San Francisco,California,United States
-192.198.126.240,29070,huanproxy,50USa19,San Francisco,California,United States
-192.198.126.117,29070,huanproxy,50USa19,San Francisco,California,United States
-192.198.126.43,29070,huanproxy,50USa19,San Francisco,California,United States
-192.186.176.220,29070,huanproxy,50USa19,San Francisco,California,United States
-192.186.176.217,29070,huanproxy,50USa19,San Francisco,California,United States
-192.186.176.85,29070,huanproxy,50USa19,San Francisco,California,United States
-192.186.176.212,29070,huanproxy,50USa19,San Francisco,California,United States
-192.186.176.249,29070,huanproxy,50USa19,San Francisco,California,United States
-192.198.126.4,29070,huanproxy,50USa19,San Francisco,California,United States
-172.98.187.110,6496,huanproxy,50USa19,San Francisco,California,United States
-192.198.126.202,29070,huanproxy,50USa19,San Francisco,California,United States
-192.198.126.136,29070,huanproxy,50USa19,San Francisco,California,United States
+172.98.188.149,36519,huannews,proxy1427,San Francisco,California,United States
+172.98.191.106,36519,huannews,proxy1427,San Francisco,California,United States
+67.220.233.75,36519,huannews,proxy1427,San Francisco,California,United States
+104.160.234.36,60694,huannews,proxy1427,San Francisco,California,United States
+104.168.88.35,60694,huannews,proxy1427,San Francisco,California,United States
+104.168.88.59,60694,huannews,proxy1427,San Francisco,California,United States
+104.202.128.37,60694,huannews,proxy1427,San Francisco,California,United States
+104.202.149.36,60694,huannews,proxy1427,San Francisco,California,United States
+104.251.81.48,60694,huannews,proxy1427,San Francisco,California,United States
+104.251.81.49,60694,huannews,proxy1427,San Francisco,California,United States
+139.81.20.15,60694,huannews,proxy1427,San Francisco,California,United States
+139.81.23.12,60694,huannews,proxy1427,San Francisco,California,United States
+172.98.188.26,60694,huannews,proxy1427,San Francisco,California,United States
+172.98.188.28,60694,huannews,proxy1427,San Francisco,California,United States
+172.98.191.39,60694,huannews,proxy1427,San Francisco,California,United States
+172.98.191.43,60694,huannews,proxy1427,San Francisco,California,United States
+173.228.166.27,60694,huannews,proxy1427,San Francisco,California,United States
+173.228.167.39,60694,huannews,proxy1427,San Francisco,California,United States
+192.80.155.38,60694,huannews,proxy1427,San Francisco,California,United States
+23.94.232.29,60694,huannews,proxy1427,San Francisco,California,United States
+23.94.232.34,60694,huannews,proxy1427,San Francisco,California,United States
+67.220.233.50,60694,huannews,proxy1427,San Francisco,California,United States
+67.220.233.65,60694,huannews,proxy1427,San Francisco,California,United States
 198.98.111.3,8080,huan,50USa19,Los Angeles,California,United States
 198.98.111.12,8080,huan,50USa19,Los Angeles,California,United States
 198.98.111.18,8080,huan,50USa19,Los Angeles,California,United States
